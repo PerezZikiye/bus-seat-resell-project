@@ -29,7 +29,7 @@ This is a Laravel 12 application for **reselling bus seats**, allowing users to 
 ## 🛠️ Technologies
 
 - PHP 8+
-- Laravel 11
+- Laravel 12
 - MySQL
 - Tailwind CSS
 - Paystack (Payment Integration)
