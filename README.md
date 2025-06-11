@@ -9,7 +9,7 @@
 
 # 🚌 Bus Seat Resell Application
 
-This is a Laravel 11 application for **reselling bus seats**, allowing users to view available seats, book them, and securely complete payments using Paystack. The platform includes admin and user dashboards, authentication, booking management, and more.
+This is a Laravel 12 application for **reselling bus seats**, allowing users to view available seats, book them, and securely complete payments using Paystack. The platform includes admin and user dashboards, authentication, booking management, and more.
 
 ---
 
